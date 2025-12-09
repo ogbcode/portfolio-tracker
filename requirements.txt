@@ -1,0 +1,29 @@
+# FastAPI & Server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Pydantic & Validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Database
+motor>=3.3.0
+beanie>=1.23.0
+
+# Cache
+redis>=5.0.0
+
+# HTTP Client
+httpx>=0.25.0
+
+# Blockchain Libraries
+web3>=6.11.0
+bitcoinlib>=0.6.15
+eth-keys
+
+# Security
+cryptography>=41.0.0
+
+# Environment
+python-dotenv>=1.0.0
