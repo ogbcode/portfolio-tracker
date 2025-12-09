@@ -1,4 +1,4 @@
-# BlockAi Portfolio Tracker
+#  Portfolio Tracker
 
 Multi-chain cryptocurrency portfolio tracker with FastAPI, MongoDB, and Redis.
 
